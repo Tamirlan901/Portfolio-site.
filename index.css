@@ -1,0 +1,39 @@
+body {
+    background-color:#d7d7d7;
+}
+.main {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    position: fixed;
+    background-color: #4a545c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.map {
+    float: right;
+    padding: 15px;
+}
+ul li {
+    display: inline-block;
+    margin-right: 50px;
+    list-style: none;
+}
+ul li a {
+    text-decoration: none;
+    padding: 25px 10px;
+    color: white;
+}
+.menu {
+    float: left;
+    color: white;
+    font-size: 25px;
+    padding: 25px 50px;
+}
+.image-center {
+    width: 400px; 
+    height: 400px;
+    display: block;
+    margin: auto;
+}
+
